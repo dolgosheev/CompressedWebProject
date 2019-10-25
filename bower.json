@@ -1,0 +1,19 @@
+{
+    "name": "example_prorject",
+    "version": "0.0.1",
+    "authors": [
+        "a.dolgosheev"
+    ],
+    "license": "MIT",
+    "ignore": [
+        "**/.*",
+        "node_modules",
+        "bower_components",
+        "test",
+        "tests"
+    ],
+        "dependencies": {
+        "normalize.css": "*",
+        "jquery": "2.*"
+    }
+}
