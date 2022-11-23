@@ -4,7 +4,7 @@
   "description": "example_prorject",
   "dependencies": {
     "bower": "^1.8.8",
-    "browser-sync": "^2.26.7",
+    "browser-sync": "^2.27.10",
     "gulp": "^3.9.1",
     "gulp-autoprefixer": "^2.1.0",
     "gulp-imagemin": "^2.2.1",
